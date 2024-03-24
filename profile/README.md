@@ -10,6 +10,8 @@ This GitHub organization is a curated collection of assignments, projects, midte
 
 If you find these projects beneficial and wish to show your appreciation or support further development, consider [buying me a coffee](https://www.buymeacoffee.com/zbhavyai)! Your generosity helps fuel future endeavors and is greatly appreciated.
 
+<a href="https://www.buymeacoffee.com/zbhavyai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 Feel free to reach out with any questions or inquiries. You can contact me via [email](mailto:zbhavyai@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/zbhavyai).
 
 Thank you for visiting!
