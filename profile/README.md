@@ -12,7 +12,7 @@ If you find these projects beneficial and wish to show your appreciation or supp
 
 <a href="https://www.buymeacoffee.com/zbhavyai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-<a href="mailto:zbhavyai@gmail.com?subject=Send Interac at above email&body=Send Interac at zbhavyai@gmail.com" target="_blank"><img src="https://www.pscu.ca/SharedContent/images/etransfer_content_three_col.jpg" alt="Interac e-transfer" style="width: 220px" ></a>
+<a href="mailto:zbhavyai@gmail.com?subject=Send Interac at above email&body=Send Interac at zbhavyai@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Interac_Brand_2021.png/1200px-Interac_Brand_2021.png" alt="Interac e-transfer" style="width: 220px" ></a>
 
 Feel free to reach out with any questions or inquiries. You can contact me via [email](mailto:zbhavyai@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/zbhavyai).
 
